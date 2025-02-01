@@ -60,6 +60,9 @@ img {
     max-width: 100%;
     overflow-x: auto; /* Ensures table is scrollable on small screens */
     display: block;
+    margin-top: 20px; /* Adds space above the table */
+    width: 100%; /* Ensures table is responsive */
+    text-align: center; /* Ensures table contents are centered */
 }
 
 .tg0 td, .tg0 th {
